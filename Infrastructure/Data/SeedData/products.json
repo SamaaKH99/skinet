@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "ULTRABOOST 20 SHOES",
+        "Description": "A soft, comfortable elastane heel allows for natural movement of the Achilles.",
+        "Price": 3196.00,
+        "PictureURL": "images/products/ULTRABOOST 20 SHOES.jpg",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "GALAXY 5 SHOES",
+        "Description": "It feels like you could run forever, or at least take another lap. And maybe another after that.",
+        "Price": 1629.00,
+        "PictureURL": "images/products/GALAXY 5 SHOES.jpg",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "FLUIDFLOW 2.0 SHOES",
+        "Description": "An ultra-breathable feel and cushy midsole that energises give these adidas shoes an edge.",
+        "Price": 2379.00,
+        "PictureURL": "images/products/FLUIDFLOW 2.0 SHOES.jpg",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "ZX 4000 4D SHOES",
+        "Description": "Regular lace, Lace Closure, Adidasd PrimeKnit textile upper and 4D midsole and supportive feel",
+        "Price": 6209.00,
+        "PictureURL": "images/products/ZX 4000 4D SHOES.jpeg",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "POSITIVITY GRAPHIC TEE",
+        "Description": "The team connection or the mental clarity, it seems like sport always helps you to feel your best.",
+        "Price": 699.00,
+        "PictureURL": "images/products/POSITIVITY GRAPHIC TEE.jpeg",
+        "ProductTypeId": 2,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Slam Dunk T-shirt",
+        "Description": "Made with a mid-weight fabric, Cut for a relaxed fit",
+        "Price": 870.00,
+        "PictureURL": "images/products/Slam Dunk T-shirt.jpeg",
+        "ProductTypeId": 2,
+        "ProductBrandId": 2
+    }
+]
